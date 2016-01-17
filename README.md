@@ -29,8 +29,9 @@ For korean [블로그 내용보기](http://gun0912.tistory.com/1)
 you can convert `String` to `Json` / `Json` to `String`
 
 
-you can override `toString()` function in class file like this.
-when you print class instance, class will print json format.
+you can override `toString()` function in class file like this
+
+when you print class instance, class will print json format
 ```javascript
 
 	@Override
